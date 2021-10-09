@@ -2,8 +2,9 @@ import { StatusBar } from "expo-status-bar";
 import React from "react";
 import { StyleSheet, SafeAreaView, View, Text, ImageBackground} from "react-native";
 
-//Component CarItem
+//Components
 import CarItem from "./components/CarItem";
+import StyledButton from "./components/StyledButton";
 
 export default function App() {
   return (
